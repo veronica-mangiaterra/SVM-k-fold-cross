@@ -1,1 +1,2 @@
-# SVM-k-fold-cross
+# SVM-k-fold-cross-validation
+
